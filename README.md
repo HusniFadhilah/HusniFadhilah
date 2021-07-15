@@ -1,4 +1,6 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Husni -->
+### 👋 <h2>Hey there! I'm Husni</h2>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -23,10 +25,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/husni-fadhilah-dhiya-ul-haq/" target="_blank"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:husnifd@students.undip.ac.id" target="_blank"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/husnifd_" target="_blank"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/husnifd" target="_blank"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/husni-fadhilah-dhiya-ul-haq/" target="_blank"><img src="https://img.shields.io/badge/-Husni%20Fadhilah%20Dhiya%20Ul%20Haq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:husnifadhilah62@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-husnifadhilah62@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/husnifd_" target="_blank"><img src="https://img.shields.io/badge/-@husnifd_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/husnifd" target="_blank"><img src="https://img.shields.io/badge/-@husnifd-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <!--
