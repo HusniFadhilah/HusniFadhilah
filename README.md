@@ -1,6 +1,14 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Husni -->
 ### <h2>👋 Hey there! I'm Husni</h2>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software\
+🎓 &nbsp;I'm currently studying Computer Science at the Diponegoro University\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Software Engineering.\
+✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
+✉️ &nbsp;You can shoot me an email at husnifadhilah62@gmail.com! I'll try to respond as soon as I can.\
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -17,14 +25,14 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HusniFadhilah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HusniFadhilah's Github Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HusniFadhilah&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HusniFadhilah's Github Stats"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HusniFadhilah&layout=compact&langs_count=8&theme=algolia" alt="My Programming Language"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/husni-fadhilah-dhiya-ul-haq/" target="_blank"><img src="https://img.shields.io/badge/-Husni%20Fadhilah%20Dhiya%20Ul%20Haq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:husnifadhilah62@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-husnifadhilah62@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/husnifd_" target="_blank"><img src="https://img.shields.io/badge/-@husnifd_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
