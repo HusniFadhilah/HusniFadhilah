@@ -1,5 +1,5 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Husni -->
-### 👋 <h2>Hey there! I'm Husni</h2>
+### <h2>👋 Hey there! I'm Husni</h2>
 
 ### 🛠 &nbsp;Tech Stack
 
