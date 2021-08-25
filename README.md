@@ -24,7 +24,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![](https://komarev.com/ghpvc/?username=HusniFadhilah)
 <p align="center">
 <a href="https://github.com/HusniFadhilah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HusniFadhilah&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HusniFadhilah's Github Stats"/>
