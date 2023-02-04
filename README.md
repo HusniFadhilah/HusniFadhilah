@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software\
-🎓 &nbsp;I'm currently studying Computer Science at the Diponegoro University\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Software Engineering.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at husnifadhilah62@gmail.com! I'll try to respond as soon as I can.
